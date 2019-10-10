@@ -1,3 +1,4 @@
+// O(n^2) TIME | O(n) SPACE
 const getNthFib = n => {
   if (n === 1) return 0;
   if (n === 2) return 1;
