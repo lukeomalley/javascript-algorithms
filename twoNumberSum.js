@@ -1,3 +1,4 @@
+// O(nlon(n)) TIME | O(1) SPACE
 const twoNumberSum = (array, targetSum) => {
   array.sort((a, b) => a - b);
   let left = 0;
