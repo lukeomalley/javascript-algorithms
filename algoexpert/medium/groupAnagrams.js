@@ -8,9 +8,8 @@
  *
  * Sample input: ["yo", "act", "flop", "tac", "cat", "oy", "olfp"]
  * Sample output: [["yo", "oy"], ["flop", "olfp"], ["act", "tac", "cat"]]
- */
-
-/**
+ *
+ *
  * Solution
  * Build a hash map of all the sorted words
  *
