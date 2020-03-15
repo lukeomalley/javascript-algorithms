@@ -36,5 +36,3 @@ const moveElementToEnd = (array, toMove) => {
 const swap = (i, j, array) => {
   [array[i], array[j]] = [array[j], array[i]];
 };
-
-console.log(moveElementToEnd([2, 2, 2, 2, 3, 4, 5, 2, 1, 1], 2));
